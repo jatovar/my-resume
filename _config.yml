@@ -1,11 +1,11 @@
 
-title: My Resume
+title: Jorge Tovar
 url: 'http://webjeda.com'
 baseurl: '/my-resume' #change it according to your repository name
 
 
 # Enable one of these styles by removing #
-style: styles-2
+#style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -21,9 +21,9 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 
 #sidebar links
 email: jorgeat771@gmail.com
-phone: +52(444)42815717
+phone: +52 (444) 42815717
 website: blog.webjeda.com #do not add http://
 linkedin: in/jatovar
 github: jatovar
-twitter: '@ely_sium'
+twitter: '@Ely_sium'
 
